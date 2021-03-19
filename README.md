@@ -25,7 +25,7 @@ Azt is felismertük, hogy a találmány szerinti árnyékoló szerkezettel az er
 
 A találmány egyes előnyös kiviteli alakjainak további előnye, hogy az árnyékoló szerkezet külső erőhatásra, például nagy szélben, képes az árnyékoló szerkezet összecsukására az ernyőfelület feltekerésével, ami megvédi az árnyékoló szerkezetet az esetleges sérülésektől.
 
-## Szélnyomás nyúlás becslése
+## Szélnyomásból következő szövetnyúlás limitének becslése
 
 ![Szélnyomás becslése](szamitas.png)
 
