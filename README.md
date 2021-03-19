@@ -31,5 +31,9 @@ A találmány egyes előnyös kiviteli alakjainak további előnye, hogy az árn
 
 ![Szélnyomás becslése](szamitas.png)
 
+## Szabadalom
+
+Afent leírt anyagok a szabadalmaztatott árnyékoló technológiára vonatkoznak. A szabadalom PCT eljárásban függőben van.
+
 ## Kapcsolat
 [minusplus.hu](http://www.minusplus.hu/)
