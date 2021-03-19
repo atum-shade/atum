@@ -1,8 +1,10 @@
 # Atum
 
-Az alább részleteztt tecnológiai fejlesztést létrehozó nyílt szoftverek és bemutató-oldal generátorának megosztására jött létre ez a felület. A technológia bemutatása alább olvasható.
+Az alább részleteztt tecnológiai fejlesztést létrehozó nyílt szoftverek és bemutató-oldal generátorának megosztására jött létre ez a felület. A technológia bemutatása alább olvasható. Tobábbi tartalmak:
 
 [Bemutató oldal](https://atum-shade.github.io/)
+
+[Bemutató oldal generátora](https://github.com/atum-shade/atum-shade.github.io)
 
 ## Árnyékoló technológia
 
