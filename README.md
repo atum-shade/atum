@@ -33,7 +33,7 @@ A találmány egyes előnyös kiviteli alakjainak további előnye, hogy az árn
 
 ## Szabadalom
 
-Afent leírt anyagok a szabadalmaztatott árnyékoló technológiára vonatkoznak. A szabadalom PCT eljárásban függőben van.
+Afent leírt anyagok a szabadalmaztatott árnyékoló technológiára vonatkoznak. A bejelentett szabadalom a Szellemi Tulajdon Világszervezeténél (WIPO) a Szabadalmi Egyezmény (PCT) szerinti nemzetközi szakaszban van.
 
 ## Kapcsolat
 [minusplus.hu](http://www.minusplus.hu/)
