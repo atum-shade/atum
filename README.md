@@ -27,7 +27,7 @@ A találmány egyes előnyös kiviteli alakjainak további előnye, hogy az árn
 
 ## Szélnyomás nyúlás becslése
 
-
+![Szélnyomás becslése](szamitas.png)
 
 ## Kapcsolat
 [minusplus.hu](http://www.minusplus.hu/)
